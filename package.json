@@ -1,5 +1,5 @@
 {
-  "homepage": "https://kmwtsachin04.github.io/Days-Along",
+  "homepage": "https://TheKaranProgram.github.io/Days-Along-main",
   "name": "todo",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }
