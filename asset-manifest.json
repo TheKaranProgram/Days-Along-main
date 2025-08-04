@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Days-Along-main/static/css/main.dea34b6b.css",
+    "main.js": "/Days-Along-main/static/js/main.68f90dd9.js",
+    "static/js/787.63e47474.chunk.js": "/Days-Along-main/static/js/787.63e47474.chunk.js",
+    "index.html": "/Days-Along-main/index.html",
+    "main.dea34b6b.css.map": "/Days-Along-main/static/css/main.dea34b6b.css.map",
+    "main.68f90dd9.js.map": "/Days-Along-main/static/js/main.68f90dd9.js.map",
+    "787.63e47474.chunk.js.map": "/Days-Along-main/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea34b6b.css",
+    "static/js/main.68f90dd9.js"
+  ]
+}
